@@ -1,3 +1,4 @@
+![logo](https://github.com/singhsayan/githubBanner/blob/main/GithubBanner.png)
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
 <h3 align="center">A passionate Electronics and Computer Science Engineering student</h3>
 
