@@ -1,4 +1,4 @@
-![logo](https://github.com/singhsayan/githubBanner/blob/main/GithubBanner.png)
+![logo[](https://github.com/singhsayan/githubBanner/blob/main/GithubBanner.png)](https://github.com/singhsayan/githubBanner/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
 <h3 align="center">A passionate Computer Engineering student</h3>
 
