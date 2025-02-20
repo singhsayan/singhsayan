@@ -39,9 +39,6 @@
   <a href="https://www.linkedin.com/in/sayan-singh9" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/singhsayan" target="blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  </a>
   <a href="https://leetcode.com/u/sayan09_/" target="blank">
     <img src="https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode" />
   </a>
