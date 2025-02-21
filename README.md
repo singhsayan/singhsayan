@@ -44,7 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhsayan&show_icons=true&locale=en&layout=compact&langs_count=8&hide=html,css" alt="singhsayan" />
 </p>
 
-🔹 **Now Includes:** Dockerfile, GitLab CI/CD YAML, and DevOps-related scripts! 🚀  
 
 ---
 
