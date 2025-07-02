@@ -29,6 +29,9 @@
 
 ### 🔧 DevOps & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform" />
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git" />
@@ -40,10 +43,13 @@
 ---
 
 ## 📊 Languages & Configuration Used:
+<p align="left">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B" />
+</p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhsayan&show_icons=true&locale=en&layout=compact&langs_count=10" alt="singhsayan" />
 </p>
-
 
 ---
 
