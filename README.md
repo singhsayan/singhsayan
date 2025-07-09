@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
 </p>
 
 ### 🌐 Frontend Development
