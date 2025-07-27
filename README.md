@@ -1,12 +1,13 @@
-<img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" width="400" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" width="100%"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
 <h3 align="center">🚀 Passionate Computer Engineering Student | DevOps, Cloud & Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400"/>
 </p>
-
 
 ---
 
@@ -16,11 +17,11 @@ I'm a computer engineering student deeply passionate about building secure, effi
 I enjoy working with **DevOps**, **Cloud Infrastructure**, and **Backend Engineering**.
 
 ### I like:
-- 🔐 Securing CI/CD pipelines with best practices
-- 💰 Optimizing cloud costs and infrastructure
-- ☁️ Automating deployments and infrastructure provisioning
-- 🧪 Working with Terraform, Docker, and cloud-native tools
-- 🛠️ Following engineering best practices and clean architecture
+- 🔐 Securing CI/CD pipelines with best practices  
+- 💰 Optimizing cloud costs and infrastructure  
+- ☁️ Automating deployments and infrastructure provisioning  
+- 🧪 Working with Terraform, Docker, and cloud-native tools  
+- 🛠️ Following engineering best practices and clean architecture  
 
 ---
 
