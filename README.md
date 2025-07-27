@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/singhsayan/assets/blob/main/coding-image.gif" width="400" />
-</p>
+<img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" width="400" />
 
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
 <h3 align="center">🚀 Passionate Computer Engineering Student | DevOps & Backend Enthusiast</h3>
