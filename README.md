@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
