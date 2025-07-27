@@ -1,13 +1,26 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" style="max-width: 100%;" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/singhsayan/assets/main/coding-image.gif" width="400" />
 
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
-<h3 align="center">🚀 Passionate Computer Engineering Student | DevOps & Backend Enthusiast</h3>
+<h3 align="center">🚀 Passionate Computer Engineering Student | DevOps, Cloud & Backend Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
 </p>
+
+
+---
+
+## 🌟 About Me
+
+I'm a computer engineering student deeply passionate about building secure, efficient, and scalable systems.  
+I enjoy working with **DevOps**, **Cloud Infrastructure**, and **Backend Engineering**.
+
+### I like:
+- 🔐 Securing CI/CD pipelines with best practices
+- 💰 Optimizing cloud costs and infrastructure
+- ☁️ Automating deployments and infrastructure provisioning
+- 🧪 Working with Terraform, Docker, and cloud-native tools
+- 🛠️ Following engineering best practices and clean architecture
 
 ---
 
@@ -48,6 +61,7 @@
 
 ## 📚 Languages Known
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
@@ -59,5 +73,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsayan&layout=compact&theme=tokyonight&langs_count=10"/>
 </p>
-
----
