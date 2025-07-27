@@ -1,4 +1,6 @@
-![logo](https://github.com/singhsayan/githubBanner/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner%20(1).png)
+<p align="center">
+  <img src="https://github.com/singhsayan/assets/blob/main/coding-image.gif" width="400" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Sayan Singh</h1>
 <h3 align="center">🚀 Passionate Computer Engineering Student | DevOps & Backend Enthusiast</h3>
