@@ -74,3 +74,5 @@ I enjoy working with **DevOps**, **Cloud Infrastructure**, and **Backend Enginee
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsayan&layout=compact&theme=tokyonight&langs_count=10"/>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?singhsayan=singhsayan&show_icons=true)
