@@ -70,14 +70,13 @@ I enjoy working with **DevOps**, **Cloud Infrastructure**, and **Backend Enginee
 </p>
 
 ---
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=singhsayan&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=singhsayan&show_icons=true&theme=tokyonight&hide_border=true" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsayan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=singhsayan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     height="180"
   />
 </p>
