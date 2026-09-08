@@ -11,17 +11,20 @@
 
 ---
 
-## 🌟 About Me
+🌟 About Me
 
-I'm a computer engineering student deeply passionate about building secure, efficient, and scalable systems.  
-I enjoy working with **DevOps**, **Cloud Infrastructure**, and **Backend Engineering**.
+I’m a Computer Engineering student and Software Engineer passionate about building scalable backend systems, cloud infrastructure, developer tooling, and automation.
 
-### I like:
-- 🔐 Securing CI/CD pipelines with best practices  
-- 💰 Optimizing cloud costs and infrastructure  
-- ☁️ Automating deployments and infrastructure provisioning  
-- 🧪 Working with Terraform, Docker, and cloud-native tools  
-- 🛠️ Following engineering best practices and clean architecture  
+I enjoy turning repetitive engineering workflows into reliable, automated solutions — from building APIs and MCP tools that expose data to developers and partners, to creating observability and alerting systems and automating engineering workflows such as daily Pull Request digests.
+
+🚀 What I Like Building
+
+* 🔌 Scalable Backend APIs & MCP Tools
+* ☁️ Cloud Infrastructure & DevOps Automation
+* 📊 Observability, Monitoring & Alerting
+* 🤖 Developer Productivity & Workflow Automation
+* 🔐 Secure & Reliable Systems
+* ⚙️ Clean, Maintainable Engineering Solutions****
 
 ---
 
@@ -64,9 +67,10 @@ I enjoy working with **DevOps**, **Cloud Infrastructure**, and **Backend Enginee
 
 ## 📚 Languages Known
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
